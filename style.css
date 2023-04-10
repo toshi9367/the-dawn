@@ -1,0 +1,15 @@
+img {
+    width: 145px;
+    height: 105px;
+}
+img, p {
+    display: inline-block;
+}
+
+img, p {
+    float: left;
+}
+.pele{
+    display: flex;
+    align-items: center;
+}
